@@ -21,7 +21,7 @@ In the future I plan to connect my interests in Music and AI to analyze sound vi
 
 :seedling: I'm currently learning NLP, Deep Learning and Maths behind AI Music.
 
-:mailbox: You can reach me via e-mail: koterwadominik@icloud.com
+:mailbox: You can reach me via e-mail: koterwadominik@icloud.com or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
 
 I highly encourage you to see some of my little project, here on GitHub or by clicking the links:
 
