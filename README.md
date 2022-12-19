@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My name is Dominik Koterwa and I am a Data Science student at University of Warsaw. :blush:
 
-In the future I plan to connect my interests in Music and AI to analyze sound via Data Science.
-
 :seedling: I'm currently learning NLP, Deep Learning and Maths behind AI Music.
 
 :mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
