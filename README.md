@@ -27,5 +27,7 @@ I highly encourage you to see some of my little project, here on GitHub or by cl
 
 [Reducing dimensions of text data - an example of applying PCA and t-SNE to word embeddings](https://github.com/dkoterwa/masters/blob/main/first%20semester/Unsupervised%20Learning/article_2/article.ipynb)
 
+[Custom Spotify Wrapped](https://github.com/dkoterwa/spotify_app)
+
 :zap: Fun fact: I love watching animals by using a trail camera.
 
