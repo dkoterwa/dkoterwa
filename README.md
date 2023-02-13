@@ -29,7 +29,7 @@ I highly encourage you to see some of my little project, here on GitHub or by cl
 
 [Reducing dimensions of text data - an example of applying PCA and t-SNE to word embeddings](https://github.com/dkoterwa/masters/blob/main/first%20semester/Unsupervised%20Learning/article_2/article.ipynb)
 
-[Analysing buying patterns of bakery clients] (https://rpubs.com/dkoterwa/association_rules_bakery)
+[Analysing buying patterns of bakery clients](https://rpubs.com/dkoterwa/association_rules_bakery)
 
 :zap: Fun fact: I love watching animals by using a trail camera.
 
