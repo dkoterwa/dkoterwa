@@ -23,11 +23,13 @@ My name is Dominik Koterwa and I am a Data Science student at University of Wars
 
 I highly encourage you to see some of my little project, here on GitHub or by clicking the links:
 
+[Custom Spotify Wrapped](https://github.com/dkoterwa/spotify_app)
+
 [Detecting animals on trail camera photographs using clustering methods](https://rpubs.com/dkoterwa/animals-detection-clustering)
 
 [Reducing dimensions of text data - an example of applying PCA and t-SNE to word embeddings](https://github.com/dkoterwa/masters/blob/main/first%20semester/Unsupervised%20Learning/article_2/article.ipynb)
 
-[Custom Spotify Wrapped](https://github.com/dkoterwa/spotify_app)
+[Analysing buying patterns of bakery clients] (https://rpubs.com/dkoterwa/association_rules_bakery)
 
 :zap: Fun fact: I love watching animals by using a trail camera.
 
