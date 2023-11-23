@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Dominik Koterwa and I am a Data Science student at University of Warsaw. :blush:
 
-:seedling: I'm currently learning NLP, Deep Learning and Maths behind AI Music.
+:seedling: I'm currently learning NLP, Deep Learning and Maths behind Generative AI (mainly in Music).
 
 :mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
 
