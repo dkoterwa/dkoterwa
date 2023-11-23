@@ -21,7 +21,7 @@ My name is Dominik Koterwa and I am a Data Science student at University of Wars
 
 :mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
 
-I highly encourage you to see some of my little project, here on GitHub or by clicking the links:
+I highly encourage you to see some of my little projects, here on GitHub or by clicking the links:
 
 [Custom Spotify Wrapped](https://github.com/dkoterwa/spotify_app)
 
