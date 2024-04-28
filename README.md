@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Dominik Koterwa and I am a Data Science student at University of Warsaw. :blush:
 
-:seedling: I'm working mainly with NLP applications, but I am also interested in other domains of Deep Learning, such as music generation.
+:seedling: I work mainly with NLP applications, but I am also interested in other domains of Deep Learning, such as music generation.
 
 :mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
 
