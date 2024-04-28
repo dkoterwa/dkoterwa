@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 My name is Dominik Koterwa and I am a Data Science student at University of Warsaw. :blush:
 
-:seedling: I'm currently learning NLP, Deep Learning and Maths behind Generative AI (mainly in Music).
+:seedling: I'm working mainly with NLP applications, but I am also interested in other domains of Deep Learning, such as music generation.
 
 :mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
 
 I highly encourage you to see some of my little projects, here on GitHub or by clicking the links:
+
+[Optimizing Topic Modeling with BERTopic](https://github.com/dkoterwa/optimizing_bertopic)
 
 [Custom Spotify Wrapped](https://github.com/dkoterwa/spotify_app)
 
