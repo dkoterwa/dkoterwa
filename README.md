@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dominik Koterwa and I am a Data Science student at University of Warsaw. :blush:
+My name is Dominik and I am a Data Science student at University of Warsaw. :blush:
 
 :seedling: I work mainly with NLP applications, but I am also interested in other domains of Deep Learning, such as music generation.
 
@@ -35,5 +35,5 @@ I highly encourage you to see some of my little projects, here on GitHub or by c
 
 [Analysing buying patterns of bakery clients](https://rpubs.com/dkoterwa/association_rules_bakery)
 
-:zap: Fun fact: I love watching animals by using a trail camera.
+
 
