@@ -1,27 +1,4 @@
-### Hi there 👋
-
-<!--
-**dkoterwa/dkoterwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-My name is Dominik and I am a Data Science student at University of Warsaw. :blush:
-
-:seedling: I work mainly with NLP applications, but I am also interested in other domains of Deep Learning, such as music generation.
-
-:mailbox: You can reach me via e-mail (koterwadominik@icloud.com) or [LinkedIn](https://www.linkedin.com/in/dominikkoterwa/)
-
-I highly encourage you to see some of my little projects, here on GitHub or by clicking the links:
+**Projects I've done at the university**:
 
 [Optimizing Topic Modeling with BERTopic](https://github.com/dkoterwa/optimizing_bertopic)
 
